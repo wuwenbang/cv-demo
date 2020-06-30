@@ -1,0 +1,104 @@
+* {
+    box-sizing: border-box;
+}
+
+p {
+    margin: .3em 0;
+}
+
+h1 {
+    font-size: 25px;
+    margin-top: 0;
+}
+
+h4, h5, h6 {
+    font-weight: normal;
+}
+
+ol, ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    color: #999;
+    text-decoration: none;
+    border-bottom: 1px solid;
+}
+
+p, li {
+    color: #555;
+}
+
+strong {
+    font-weight: normal;
+}
+
+h3, h4, h5, h6 {
+    margin: 0;
+}
+
+body {
+    background: #eee;
+    margin: 20px 0;
+}
+
+article {
+    width: 21cm;
+    min-height: 29.7cm;
+    background: white;
+    margin: 0 auto;
+    overflow: auto;
+    padding: 1em;
+}
+
+strong {
+    font-weight: 600;
+    color: #f60;
+}
+
+.normal {
+    font-weight: normal;
+    color: #00AAFF;
+}
+
+.bio {
+    margin: 0;
+    position: relative;
+}
+
+.bio img {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.skills li {
+    margin: 0 0 8px 0;
+}
+
+.projects header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.projects li {
+    margin: 0 0 24px 0;
+}
+
+.openSource header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.openSource li {
+    margin: 0 0 24px 0;
+}
+
+.education li {
+    margin: 0 0 6px 20px;
+    list-style: circle;
+}
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
